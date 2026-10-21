@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-labelledby="title desc">
+<title id="title">LeetCode topic chart pending first update</title>
+<desc id="desc">Run the GitHub Actions workflow to fetch accepted submissions and build topic counts.</desc>
+<rect width="900" height="130" rx="12" fill="#fff"/>
+<text x="30" y="42" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#222">LeetCode Problems Solved by Topic</text>
+<text x="30" y="78" font-family="Arial,sans-serif" font-size="15" fill="#555">Chart will populate after the first successful workflow run.</text>
+<text x="30" y="104" font-family="Arial,sans-serif" font-size="13" fill="#666">No personal problem counts are assumed.</text>
+</svg>
