@@ -1,5 +1,74 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 0,
-  "topics": []
+  "unique_problems_discovered": 19,
+  "topics": [
+    {
+      "topic": "Array",
+      "solved": 12
+    },
+    {
+      "topic": "Math",
+      "solved": 6
+    },
+    {
+      "topic": "Two Pointers",
+      "solved": 5
+    },
+    {
+      "topic": "Hash Table",
+      "solved": 4
+    },
+    {
+      "topic": "Sorting",
+      "solved": 4
+    },
+    {
+      "topic": "Binary Search",
+      "solved": 3
+    },
+    {
+      "topic": "Greedy",
+      "solved": 3
+    },
+    {
+      "topic": "Bit Manipulation",
+      "solved": 2
+    },
+    {
+      "topic": "Counting",
+      "solved": 2
+    },
+    {
+      "topic": "String",
+      "solved": 2
+    },
+    {
+      "topic": "Backtracking",
+      "solved": 1
+    },
+    {
+      "topic": "Dynamic Programming",
+      "solved": 1
+    },
+    {
+      "topic": "Enumeration",
+      "solved": 1
+    },
+    {
+      "topic": "Floyd's Cycle Finding Algorithm",
+      "solved": 1
+    },
+    {
+      "topic": "Monotonic Stack",
+      "solved": 1
+    },
+    {
+      "topic": "Pigeonhole Principle",
+      "solved": 1
+    },
+    {
+      "topic": "Stack",
+      "solved": 1
+    }
+  ]
 }

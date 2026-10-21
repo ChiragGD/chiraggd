@@ -1,4 +1,169 @@
 {
   "username": "chiraggd",
-  "problems": {}
+  "problems": {
+    "kth-missing-positive-number": {
+      "title": "Kth Missing Positive Number",
+      "timestamp": "1792431378",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "sum-of-squares-of-special-elements": {
+      "title": "Sum of Squares of Special Elements ",
+      "timestamp": "1792417703",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    },
+    "count-numbers-with-unique-digits": {
+      "title": "Count Numbers with Unique Digits",
+      "timestamp": "1792413592",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Backtracking"
+      ]
+    },
+    "find-peak-element": {
+      "title": "Find Peak Element",
+      "timestamp": "1792412655",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    "transform-array-by-parity": {
+      "title": "Transform Array by Parity",
+      "timestamp": "1792088702",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    "sort-array-by-parity": {
+      "title": "Sort Array By Parity",
+      "timestamp": "1792088252",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    "reverse-string": {
+      "title": "Reverse String",
+      "timestamp": "1792087462",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    "rotate-array": {
+      "title": "Rotate Array",
+      "timestamp": "1792086906",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    "card-flipping-game": {
+      "title": "Card Flipping Game",
+      "timestamp": "1791551017",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "shortest-unsorted-continuous-subarray": {
+      "title": "Shortest Unsorted Continuous Subarray",
+      "timestamp": "1791550465",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ]
+    },
+    "divide-array-into-arrays-with-max-difference": {
+      "title": "Divide Array Into Arrays With Max Difference",
+      "timestamp": "1791528615",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    "xor-operation-in-an-array": {
+      "title": "XOR Operation in an Array",
+      "timestamp": "1791030312",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ]
+    },
+    "find-lucky-integer-in-an-array": {
+      "title": "Find Lucky Integer in an Array",
+      "timestamp": "1791002621",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    "find-the-difference-of-two-arrays": {
+      "title": "Find the Difference of Two Arrays",
+      "timestamp": "1790913871",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    "largest-integer-with-given-digit-sum": {
+      "title": "Largest Integer With Given Digit Sum",
+      "timestamp": "1790913478",
+      "topics": [
+        "Math",
+        "Greedy"
+      ]
+    },
+    "count-commas-in-range-ii": {
+      "title": "Count Commas in Range II",
+      "timestamp": "1790910353",
+      "topics": [
+        "Math"
+      ]
+    },
+    "find-the-duplicate-number": {
+      "title": "Find the Duplicate Number",
+      "timestamp": "1790879589",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation",
+        "Pigeonhole Principle",
+        "Floyd's Cycle Finding Algorithm"
+      ]
+    },
+    "count-commas-in-range": {
+      "title": "Count Commas in Range",
+      "timestamp": "1790873235",
+      "topics": [
+        "Math"
+      ]
+    },
+    "check-if-the-sentence-is-pangram": {
+      "title": "Check if the Sentence Is Pangram",
+      "timestamp": "1790838976",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    }
+  }
 }
