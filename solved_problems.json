@@ -164,6 +164,35 @@
         "Hash Table",
         "String"
       ]
+    },
+    "contains-duplicate-ii": {
+      "title": "Contains Duplicate II",
+      "timestamp": "1792605541",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "title": "Find the Index of the First Occurrence in a String",
+      "timestamp": "1792604572",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching",
+        "Z Algorithm",
+        "Knuth–Morris–Pratt Algorithm",
+        "Boyer–Moore String-Search Algorithm"
+      ]
+    },
+    "remove-element": {
+      "title": "Remove Element",
+      "timestamp": "1792603738",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
     }
   }
 }
