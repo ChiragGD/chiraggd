@@ -193,6 +193,20 @@
         "Array",
         "Two Pointers"
       ]
+    },
+    "reverse-integer": {
+      "title": "Reverse Integer",
+      "timestamp": "1792690692",
+      "topics": [
+        "Math"
+      ]
+    },
+    "mirror-distance-of-an-integer": {
+      "title": "Mirror Distance of an Integer",
+      "timestamp": "1792689233",
+      "topics": [
+        "Math"
+      ]
     }
   }
 }

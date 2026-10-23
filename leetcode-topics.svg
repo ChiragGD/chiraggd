@@ -20,14 +20,14 @@
 <rect x="250" y="78" width="680" height="20" rx="5" fill="#f0f2f5"/>
 <rect x="250" y="78" width="680.00" height="20" rx="5" fill="#2da44e"/>
 <text x="938.00" y="92.0" font-family="Arial,sans-serif" font-size="13" fill="#333">14</text>
-<text x="236" y="130.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Two Pointers</text>
+<text x="236" y="130.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Math</text>
 <rect x="250" y="116" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="116" width="340.00" height="20" rx="5" fill="#2da44e"/>
-<text x="598.00" y="130.0" font-family="Arial,sans-serif" font-size="13" fill="#333">7</text>
-<text x="236" y="168.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Math</text>
+<rect x="250" y="116" width="388.57" height="20" rx="5" fill="#2da44e"/>
+<text x="646.57" y="130.0" font-family="Arial,sans-serif" font-size="13" fill="#333">8</text>
+<text x="236" y="168.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Two Pointers</text>
 <rect x="250" y="154" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="154" width="291.43" height="20" rx="5" fill="#2da44e"/>
-<text x="549.43" y="168.0" font-family="Arial,sans-serif" font-size="13" fill="#333">6</text>
+<rect x="250" y="154" width="340.00" height="20" rx="5" fill="#2da44e"/>
+<text x="598.00" y="168.0" font-family="Arial,sans-serif" font-size="13" fill="#333">7</text>
 <text x="236" y="206.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Hash Table</text>
 <rect x="250" y="192" width="680" height="20" rx="5" fill="#f0f2f5"/>
 <rect x="250" y="192" width="242.86" height="20" rx="5" fill="#2da44e"/>

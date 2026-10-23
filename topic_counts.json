@@ -1,18 +1,18 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 22,
+  "unique_problems_discovered": 24,
   "topics": [
     {
       "topic": "Array",
       "solved": 14
     },
     {
-      "topic": "Two Pointers",
-      "solved": 7
+      "topic": "Math",
+      "solved": 8
     },
     {
-      "topic": "Math",
-      "solved": 6
+      "topic": "Two Pointers",
+      "solved": 7
     },
     {
       "topic": "Hash Table",
