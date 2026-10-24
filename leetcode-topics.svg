@@ -1,108 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="966" viewBox="0 0 1000 966" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1194" viewBox="0 0 1000 1194" role="img" aria-labelledby="title desc">
 <title id="title">LeetCode problems solved by topic</title>
 <desc id="desc">Counts are calculated from unique accepted problems discovered by the tracker.</desc>
 <rect width="100%" height="100%" fill="#ffffff" rx="14"/>
 <text x="250" y="34" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#222">LeetCode Problems Solved by Topic</text>
 <text x="250" y="56" font-family="Arial,sans-serif" font-size="12" fill="#666">Profile: leetcode.com/u/chiraggd/ · unique accepted problems discovered</text>
-<line x1="250.0" y1="70" x2="250.0" y2="916" stroke="#e6e8eb"/>
-<text x="250.0" y="945" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">0</text>
-<line x1="386.0" y1="70" x2="386.0" y2="916" stroke="#e6e8eb"/>
-<text x="386.0" y="945" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">3</text>
-<line x1="522.0" y1="70" x2="522.0" y2="916" stroke="#e6e8eb"/>
-<text x="522.0" y="945" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">6</text>
-<line x1="658.0" y1="70" x2="658.0" y2="916" stroke="#e6e8eb"/>
-<text x="658.0" y="945" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">8</text>
-<line x1="794.0" y1="70" x2="794.0" y2="916" stroke="#e6e8eb"/>
-<text x="794.0" y="945" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">11</text>
-<line x1="930.0" y1="70" x2="930.0" y2="916" stroke="#e6e8eb"/>
-<text x="930.0" y="945" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">14</text>
+<line x1="250.0" y1="70" x2="250.0" y2="1144" stroke="#e6e8eb"/>
+<text x="250.0" y="1173" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">0</text>
+<line x1="386.0" y1="70" x2="386.0" y2="1144" stroke="#e6e8eb"/>
+<text x="386.0" y="1173" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">4</text>
+<line x1="522.0" y1="70" x2="522.0" y2="1144" stroke="#e6e8eb"/>
+<text x="522.0" y="1173" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">8</text>
+<line x1="658.0" y1="70" x2="658.0" y2="1144" stroke="#e6e8eb"/>
+<text x="658.0" y="1173" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">13</text>
+<line x1="794.0" y1="70" x2="794.0" y2="1144" stroke="#e6e8eb"/>
+<text x="794.0" y="1173" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">17</text>
+<line x1="930.0" y1="70" x2="930.0" y2="1144" stroke="#e6e8eb"/>
+<text x="930.0" y="1173" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">21</text>
 <text x="236" y="92.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Array</text>
 <rect x="250" y="78" width="680" height="20" rx="5" fill="#f0f2f5"/>
 <rect x="250" y="78" width="680.00" height="20" rx="5" fill="#2da44e"/>
-<text x="938.00" y="92.0" font-family="Arial,sans-serif" font-size="13" fill="#333">14</text>
+<text x="938.00" y="92.0" font-family="Arial,sans-serif" font-size="13" fill="#333">21</text>
 <text x="236" y="130.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Math</text>
 <rect x="250" y="116" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="116" width="388.57" height="20" rx="5" fill="#2da44e"/>
-<text x="646.57" y="130.0" font-family="Arial,sans-serif" font-size="13" fill="#333">8</text>
+<rect x="250" y="116" width="323.81" height="20" rx="5" fill="#2da44e"/>
+<text x="581.81" y="130.0" font-family="Arial,sans-serif" font-size="13" fill="#333">10</text>
 <text x="236" y="168.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Two Pointers</text>
 <rect x="250" y="154" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="154" width="340.00" height="20" rx="5" fill="#2da44e"/>
-<text x="598.00" y="168.0" font-family="Arial,sans-serif" font-size="13" fill="#333">7</text>
-<text x="236" y="206.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Hash Table</text>
+<rect x="250" y="154" width="259.05" height="20" rx="5" fill="#2da44e"/>
+<text x="517.05" y="168.0" font-family="Arial,sans-serif" font-size="13" fill="#333">8</text>
+<text x="236" y="206.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Sorting</text>
 <rect x="250" y="192" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="192" width="242.86" height="20" rx="5" fill="#2da44e"/>
-<text x="500.86" y="206.0" font-family="Arial,sans-serif" font-size="13" fill="#333">5</text>
-<text x="236" y="244.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Sorting</text>
+<rect x="250" y="192" width="226.67" height="20" rx="5" fill="#2da44e"/>
+<text x="484.67" y="206.0" font-family="Arial,sans-serif" font-size="13" fill="#333">7</text>
+<text x="236" y="244.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Hash Table</text>
 <rect x="250" y="230" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="230" width="194.29" height="20" rx="5" fill="#2da44e"/>
-<text x="452.29" y="244.0" font-family="Arial,sans-serif" font-size="13" fill="#333">4</text>
+<rect x="250" y="230" width="161.90" height="20" rx="5" fill="#2da44e"/>
+<text x="419.90" y="244.0" font-family="Arial,sans-serif" font-size="13" fill="#333">5</text>
 <text x="236" y="282.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Binary Search</text>
 <rect x="250" y="268" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="268" width="145.71" height="20" rx="5" fill="#2da44e"/>
-<text x="403.71" y="282.0" font-family="Arial,sans-serif" font-size="13" fill="#333">3</text>
+<rect x="250" y="268" width="129.52" height="20" rx="5" fill="#2da44e"/>
+<text x="387.52" y="282.0" font-family="Arial,sans-serif" font-size="13" fill="#333">4</text>
 <text x="236" y="320.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Greedy</text>
 <rect x="250" y="306" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="306" width="145.71" height="20" rx="5" fill="#2da44e"/>
-<text x="403.71" y="320.0" font-family="Arial,sans-serif" font-size="13" fill="#333">3</text>
+<rect x="250" y="306" width="129.52" height="20" rx="5" fill="#2da44e"/>
+<text x="387.52" y="320.0" font-family="Arial,sans-serif" font-size="13" fill="#333">4</text>
 <text x="236" y="358.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">String</text>
 <rect x="250" y="344" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="344" width="145.71" height="20" rx="5" fill="#2da44e"/>
-<text x="403.71" y="358.0" font-family="Arial,sans-serif" font-size="13" fill="#333">3</text>
+<rect x="250" y="344" width="129.52" height="20" rx="5" fill="#2da44e"/>
+<text x="387.52" y="358.0" font-family="Arial,sans-serif" font-size="13" fill="#333">4</text>
 <text x="236" y="396.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Bit Manipulation</text>
 <rect x="250" y="382" width="680" height="20" rx="5" fill="#f0f2f5"/>
 <rect x="250" y="382" width="97.14" height="20" rx="5" fill="#2da44e"/>
-<text x="355.14" y="396.0" font-family="Arial,sans-serif" font-size="13" fill="#333">2</text>
+<text x="355.14" y="396.0" font-family="Arial,sans-serif" font-size="13" fill="#333">3</text>
 <text x="236" y="434.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Counting</text>
 <rect x="250" y="420" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="420" width="97.14" height="20" rx="5" fill="#2da44e"/>
-<text x="355.14" y="434.0" font-family="Arial,sans-serif" font-size="13" fill="#333">2</text>
-<text x="236" y="472.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Backtracking</text>
+<rect x="250" y="420" width="64.76" height="20" rx="5" fill="#2da44e"/>
+<text x="322.76" y="434.0" font-family="Arial,sans-serif" font-size="13" fill="#333">2</text>
+<text x="236" y="472.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Divide and Conquer</text>
 <rect x="250" y="458" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="458" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="472.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="510.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Boyer–Moore String-Search Algorithm</text>
+<rect x="250" y="458" width="64.76" height="20" rx="5" fill="#2da44e"/>
+<text x="322.76" y="472.0" font-family="Arial,sans-serif" font-size="13" fill="#333">2</text>
+<text x="236" y="510.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Quickselect</text>
 <rect x="250" y="496" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="496" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="510.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="548.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Dynamic Programming</text>
+<rect x="250" y="496" width="64.76" height="20" rx="5" fill="#2da44e"/>
+<text x="322.76" y="510.0" font-family="Arial,sans-serif" font-size="13" fill="#333">2</text>
+<text x="236" y="548.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Backtracking</text>
 <rect x="250" y="534" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="534" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="548.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="586.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Enumeration</text>
+<rect x="250" y="534" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="548.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="586.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Boyer–Moore String-Search Algorithm</text>
 <rect x="250" y="572" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="572" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="586.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="624.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Floyd&#x27;s Cycle Finding Algorithm</text>
+<rect x="250" y="572" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="586.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="624.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Bubble Sort</text>
 <rect x="250" y="610" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="610" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="624.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="662.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Knuth–Morris–Pratt Algorithm</text>
+<rect x="250" y="610" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="624.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="662.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Dynamic Programming</text>
 <rect x="250" y="648" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="648" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="662.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="700.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Monotonic Stack</text>
+<rect x="250" y="648" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="662.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="700.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Enumeration</text>
 <rect x="250" y="686" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="686" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="700.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="738.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Pigeonhole Principle</text>
+<rect x="250" y="686" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="700.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="738.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Floyd&#x27;s Cycle Finding Algorithm</text>
 <rect x="250" y="724" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="724" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="738.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="776.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Sliding Window</text>
+<rect x="250" y="724" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="738.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="776.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Heap (Priority Queue)</text>
 <rect x="250" y="762" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="762" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="776.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="814.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Stack</text>
+<rect x="250" y="762" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="776.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="814.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Knuth–Morris–Pratt Algorithm</text>
 <rect x="250" y="800" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="800" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="814.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="852.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">String Matching</text>
+<rect x="250" y="800" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="814.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="852.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Monotonic Stack</text>
 <rect x="250" y="838" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="838" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="852.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="236" y="890.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Z Algorithm</text>
+<rect x="250" y="838" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="852.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="890.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Pigeonhole Principle</text>
 <rect x="250" y="876" width="680" height="20" rx="5" fill="#f0f2f5"/>
-<rect x="250" y="876" width="48.57" height="20" rx="5" fill="#2da44e"/>
-<text x="306.57" y="890.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
-<text x="590.0" y="962" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">Unique accepted problems</text>
+<rect x="250" y="876" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="890.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="928.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Quicksort</text>
+<rect x="250" y="914" width="680" height="20" rx="5" fill="#f0f2f5"/>
+<rect x="250" y="914" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="928.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="966.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Sliding Window</text>
+<rect x="250" y="952" width="680" height="20" rx="5" fill="#f0f2f5"/>
+<rect x="250" y="952" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="966.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="1004.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Stack</text>
+<rect x="250" y="990" width="680" height="20" rx="5" fill="#f0f2f5"/>
+<rect x="250" y="990" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="1004.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="1042.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">String Matching</text>
+<rect x="250" y="1028" width="680" height="20" rx="5" fill="#f0f2f5"/>
+<rect x="250" y="1028" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="1042.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="1080.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Ternary Search</text>
+<rect x="250" y="1066" width="680" height="20" rx="5" fill="#f0f2f5"/>
+<rect x="250" y="1066" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="1080.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="236" y="1118.0" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#333">Z Algorithm</text>
+<rect x="250" y="1104" width="680" height="20" rx="5" fill="#f0f2f5"/>
+<rect x="250" y="1104" width="32.38" height="20" rx="5" fill="#2da44e"/>
+<text x="290.38" y="1118.0" font-family="Arial,sans-serif" font-size="13" fill="#333">1</text>
+<text x="590.0" y="1190" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">Unique accepted problems</text>
 </svg>

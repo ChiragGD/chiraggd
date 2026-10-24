@@ -1,17 +1,21 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 24,
+  "unique_problems_discovered": 33,
   "topics": [
     {
       "topic": "Array",
-      "solved": 14
+      "solved": 21
     },
     {
       "topic": "Math",
-      "solved": 8
+      "solved": 10
     },
     {
       "topic": "Two Pointers",
+      "solved": 8
+    },
+    {
+      "topic": "Sorting",
       "solved": 7
     },
     {
@@ -19,27 +23,31 @@
       "solved": 5
     },
     {
-      "topic": "Sorting",
+      "topic": "Binary Search",
       "solved": 4
     },
     {
-      "topic": "Binary Search",
-      "solved": 3
-    },
-    {
       "topic": "Greedy",
-      "solved": 3
+      "solved": 4
     },
     {
       "topic": "String",
-      "solved": 3
+      "solved": 4
     },
     {
       "topic": "Bit Manipulation",
-      "solved": 2
+      "solved": 3
     },
     {
       "topic": "Counting",
+      "solved": 2
+    },
+    {
+      "topic": "Divide and Conquer",
+      "solved": 2
+    },
+    {
+      "topic": "Quickselect",
       "solved": 2
     },
     {
@@ -48,6 +56,10 @@
     },
     {
       "topic": "Boyer–Moore String-Search Algorithm",
+      "solved": 1
+    },
+    {
+      "topic": "Bubble Sort",
       "solved": 1
     },
     {
@@ -63,6 +75,10 @@
       "solved": 1
     },
     {
+      "topic": "Heap (Priority Queue)",
+      "solved": 1
+    },
+    {
       "topic": "Knuth–Morris–Pratt Algorithm",
       "solved": 1
     },
@@ -75,6 +91,10 @@
       "solved": 1
     },
     {
+      "topic": "Quicksort",
+      "solved": 1
+    },
+    {
       "topic": "Sliding Window",
       "solved": 1
     },
@@ -84,6 +104,10 @@
     },
     {
       "topic": "String Matching",
+      "solved": 1
+    },
+    {
+      "topic": "Ternary Search",
       "solved": 1
     },
     {
