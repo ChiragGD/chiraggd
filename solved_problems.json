@@ -286,6 +286,25 @@
       "topics": [
         "Math"
       ]
+    },
+    "boats-to-save-people": {
+      "title": "Boats to Save People",
+      "timestamp": "1792849499",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Timsort"
+      ]
+    },
+    "third-maximum-number": {
+      "title": "Third Maximum Number",
+      "timestamp": "1792846540",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
     }
   }
 }

@@ -1,22 +1,26 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 33,
+  "unique_problems_discovered": 35,
   "topics": [
     {
       "topic": "Array",
-      "solved": 21
+      "solved": 23
     },
     {
       "topic": "Math",
       "solved": 10
     },
     {
-      "topic": "Two Pointers",
-      "solved": 8
+      "topic": "Sorting",
+      "solved": 9
     },
     {
-      "topic": "Sorting",
-      "solved": 7
+      "topic": "Two Pointers",
+      "solved": 9
+    },
+    {
+      "topic": "Greedy",
+      "solved": 5
     },
     {
       "topic": "Hash Table",
@@ -24,10 +28,6 @@
     },
     {
       "topic": "Binary Search",
-      "solved": 4
-    },
-    {
-      "topic": "Greedy",
       "solved": 4
     },
     {
@@ -108,6 +108,10 @@
     },
     {
       "topic": "Ternary Search",
+      "solved": 1
+    },
+    {
+      "topic": "Timsort",
       "solved": 1
     },
     {
