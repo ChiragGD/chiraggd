@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 35,
+  "unique_problems_discovered": 36,
   "topics": [
     {
       "topic": "Array",
-      "solved": 23
+      "solved": 24
     },
     {
       "topic": "Math",
@@ -19,11 +19,11 @@
       "solved": 9
     },
     {
-      "topic": "Greedy",
-      "solved": 5
+      "topic": "Hash Table",
+      "solved": 6
     },
     {
-      "topic": "Hash Table",
+      "topic": "Greedy",
       "solved": 5
     },
     {
