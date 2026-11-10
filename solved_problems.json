@@ -313,6 +313,48 @@
         "Array",
         "Hash Table"
       ]
+    },
+    "not-boring-movies": {
+      "title": "Not Boring Movies",
+      "timestamp": "1794290403",
+      "topics": [
+        "Database"
+      ]
+    },
+    "patients-with-a-condition": {
+      "title": "Patients With a Condition",
+      "timestamp": "1794289511",
+      "topics": [
+        "Database"
+      ]
+    },
+    "article-views-i": {
+      "title": "Article Views I",
+      "timestamp": "1794237330",
+      "topics": [
+        "Database"
+      ]
+    },
+    "find-customer-referee": {
+      "title": "Find Customer Referee",
+      "timestamp": "1794237316",
+      "topics": [
+        "Database"
+      ]
+    },
+    "recyclable-and-low-fat-products": {
+      "title": "Recyclable and Low Fat Products",
+      "timestamp": "1794236369",
+      "topics": [
+        "Database"
+      ]
+    },
+    "big-countries": {
+      "title": "Big Countries",
+      "timestamp": "1794236043",
+      "topics": [
+        "Database"
+      ]
     }
   }
 }

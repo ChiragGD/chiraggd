@@ -1,6 +1,6 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 36,
+  "unique_problems_discovered": 42,
   "topics": [
     {
       "topic": "Array",
@@ -17,6 +17,10 @@
     {
       "topic": "Two Pointers",
       "solved": 9
+    },
+    {
+      "topic": "Database",
+      "solved": 6
     },
     {
       "topic": "Hash Table",
