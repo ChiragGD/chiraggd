@@ -355,6 +355,48 @@
       "topics": [
         "Database"
       ]
+    },
+    "customer-placing-the-largest-number-of-orders": {
+      "title": "Customer Placing the Largest Number of Orders",
+      "timestamp": "1794576775",
+      "topics": [
+        "Database"
+      ]
+    },
+    "second-highest-salary": {
+      "title": "Second Highest Salary",
+      "timestamp": "1794576674",
+      "topics": [
+        "Database"
+      ]
+    },
+    "department-highest-salary": {
+      "title": "Department Highest Salary",
+      "timestamp": "1794576660",
+      "topics": [
+        "Database"
+      ]
+    },
+    "daily-leads-and-partners": {
+      "title": "Daily Leads and Partners",
+      "timestamp": "1794573870",
+      "topics": [
+        "Database"
+      ]
+    },
+    "classes-with-at-least-5-students": {
+      "title": "Classes With at Least 5 Students",
+      "timestamp": "1794573515",
+      "topics": [
+        "Database"
+      ]
+    },
+    "number-of-unique-subjects-taught-by-each-teacher": {
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "timestamp": "1794572128",
+      "topics": [
+        "Database"
+      ]
     }
   }
 }
