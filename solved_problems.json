@@ -397,6 +397,47 @@
       "topics": [
         "Database"
       ]
+    },
+    "maximum-sum-of-almost-unique-subarray": {
+      "title": "Maximum Sum of Almost Unique Subarray",
+      "timestamp": "1794683043",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
+    },
+    "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "timestamp": "1794677086",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    "minimum-recolors-to-get-k-consecutive-black-blocks": {
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "timestamp": "1794673866",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "maximum-number-of-vowels-in-a-substring-of-given-length": {
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "timestamp": "1794671771",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "maximum-average-subarray-i": {
+      "title": "Maximum Average Subarray I",
+      "timestamp": "1794667792",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
     }
   }
 }

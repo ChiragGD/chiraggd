@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 48,
+  "unique_problems_discovered": 53,
   "topics": [
     {
       "topic": "Array",
-      "solved": 24
+      "solved": 27
     },
     {
       "topic": "Database",
@@ -24,6 +24,14 @@
     },
     {
       "topic": "Hash Table",
+      "solved": 7
+    },
+    {
+      "topic": "Sliding Window",
+      "solved": 6
+    },
+    {
+      "topic": "String",
       "solved": 6
     },
     {
@@ -32,10 +40,6 @@
     },
     {
       "topic": "Binary Search",
-      "solved": 4
-    },
-    {
-      "topic": "String",
       "solved": 4
     },
     {
@@ -96,10 +100,6 @@
     },
     {
       "topic": "Quicksort",
-      "solved": 1
-    },
-    {
-      "topic": "Sliding Window",
       "solved": 1
     },
     {
