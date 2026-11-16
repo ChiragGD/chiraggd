@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 53,
+  "unique_problems_discovered": 62,
   "topics": [
     {
       "topic": "Array",
-      "solved": 27
+      "solved": 35
     },
     {
       "topic": "Database",
@@ -12,38 +12,42 @@
     },
     {
       "topic": "Math",
-      "solved": 10
+      "solved": 11
+    },
+    {
+      "topic": "Sliding Window",
+      "solved": 11
     },
     {
       "topic": "Sorting",
-      "solved": 9
+      "solved": 11
+    },
+    {
+      "topic": "Hash Table",
+      "solved": 10
     },
     {
       "topic": "Two Pointers",
       "solved": 9
     },
     {
-      "topic": "Hash Table",
-      "solved": 7
-    },
-    {
-      "topic": "Sliding Window",
-      "solved": 6
+      "topic": "Binary Search",
+      "solved": 8
     },
     {
       "topic": "String",
-      "solved": 6
+      "solved": 7
     },
     {
       "topic": "Greedy",
-      "solved": 5
-    },
-    {
-      "topic": "Binary Search",
-      "solved": 4
+      "solved": 6
     },
     {
       "topic": "Bit Manipulation",
+      "solved": 4
+    },
+    {
+      "topic": "Prefix Sum",
       "solved": 3
     },
     {
@@ -52,6 +56,10 @@
     },
     {
       "topic": "Divide and Conquer",
+      "solved": 2
+    },
+    {
+      "topic": "Enumeration",
       "solved": 2
     },
     {
@@ -67,6 +75,10 @@
       "solved": 1
     },
     {
+      "topic": "Brainteaser",
+      "solved": 1
+    },
+    {
       "topic": "Bubble Sort",
       "solved": 1
     },
@@ -75,11 +87,11 @@
       "solved": 1
     },
     {
-      "topic": "Enumeration",
+      "topic": "Floyd's Cycle Finding Algorithm",
       "solved": 1
     },
     {
-      "topic": "Floyd's Cycle Finding Algorithm",
+      "topic": "Game Theory",
       "solved": 1
     },
     {
@@ -95,11 +107,27 @@
       "solved": 1
     },
     {
+      "topic": "Ordered Set",
+      "solved": 1
+    },
+    {
       "topic": "Pigeonhole Principle",
       "solved": 1
     },
     {
       "topic": "Quicksort",
+      "solved": 1
+    },
+    {
+      "topic": "Recursion",
+      "solved": 1
+    },
+    {
+      "topic": "Segment Tree",
+      "solved": 1
+    },
+    {
+      "topic": "Simulation",
       "solved": 1
     },
     {

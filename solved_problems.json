@@ -438,6 +438,96 @@
         "Array",
         "Sliding Window"
       ]
+    },
+    "fruits-into-baskets-ii": {
+      "title": "Fruits Into Baskets II",
+      "timestamp": "1794818423",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Segment Tree",
+        "Simulation",
+        "Ordered Set"
+      ]
+    },
+    "max-consecutive-ones-iii": {
+      "title": "Max Consecutive Ones III",
+      "timestamp": "1794815170",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "title": "Longest Substring Without Repeating Characters",
+      "timestamp": "1794809718",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    "subarray-product-less-than-k": {
+      "title": "Subarray Product Less Than K",
+      "timestamp": "1794806184",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "maximum-erasure-value": {
+      "title": "Maximum Erasure Value",
+      "timestamp": "1794769075",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
+    },
+    "maximum-median-sum-of-subsequences-of-size-3": {
+      "title": "Maximum Median Sum of Subsequences of Size 3",
+      "timestamp": "1794765874",
+      "topics": [
+        "Array",
+        "Math",
+        "Greedy",
+        "Sorting",
+        "Game Theory"
+      ]
+    },
+    "finding-3-digit-even-numbers": {
+      "title": "Finding 3-Digit Even Numbers",
+      "timestamp": "1794754798",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Recursion",
+        "Sorting",
+        "Enumeration"
+      ]
+    },
+    "longest-subarray-with-maximum-bitwise-and": {
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "timestamp": "1794751967",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ]
+    },
+    "minimum-size-subarray-sum": {
+      "title": "Minimum Size Subarray Sum",
+      "timestamp": "1794751089",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
     }
   }
 }
