@@ -528,6 +528,33 @@
         "Sliding Window",
         "Prefix Sum"
       ]
+    },
+    "maximum-points-you-can-obtain-from-cards": {
+      "title": "Maximum Points You Can Obtain from Cards",
+      "timestamp": "1794856473",
+      "topics": [
+        "Array",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    "longest-subarray-of-1s-after-deleting-one-element": {
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "timestamp": "1794855744",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sliding Window"
+      ]
+    },
+    "contains-duplicate": {
+      "title": "Contains Duplicate",
+      "timestamp": "1794847384",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
     }
   }
 }

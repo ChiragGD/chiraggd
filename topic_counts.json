@@ -1,30 +1,30 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 62,
+  "unique_problems_discovered": 65,
   "topics": [
     {
       "topic": "Array",
-      "solved": 35
+      "solved": 38
+    },
+    {
+      "topic": "Sliding Window",
+      "solved": 13
     },
     {
       "topic": "Database",
       "solved": 12
     },
     {
-      "topic": "Math",
-      "solved": 11
-    },
-    {
-      "topic": "Sliding Window",
-      "solved": 11
-    },
-    {
       "topic": "Sorting",
-      "solved": 11
+      "solved": 12
     },
     {
       "topic": "Hash Table",
-      "solved": 10
+      "solved": 11
+    },
+    {
+      "topic": "Math",
+      "solved": 11
     },
     {
       "topic": "Two Pointers",
@@ -48,7 +48,7 @@
     },
     {
       "topic": "Prefix Sum",
-      "solved": 3
+      "solved": 4
     },
     {
       "topic": "Counting",
@@ -56,6 +56,10 @@
     },
     {
       "topic": "Divide and Conquer",
+      "solved": 2
+    },
+    {
+      "topic": "Dynamic Programming",
       "solved": 2
     },
     {
@@ -80,10 +84,6 @@
     },
     {
       "topic": "Bubble Sort",
-      "solved": 1
-    },
-    {
-      "topic": "Dynamic Programming",
       "solved": 1
     },
     {
