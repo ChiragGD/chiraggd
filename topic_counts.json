@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 65,
+  "unique_problems_discovered": 68,
   "topics": [
     {
       "topic": "Array",
-      "solved": 38
+      "solved": 41
     },
     {
       "topic": "Sliding Window",
@@ -15,12 +15,12 @@
       "solved": 12
     },
     {
-      "topic": "Sorting",
+      "topic": "Hash Table",
       "solved": 12
     },
     {
-      "topic": "Hash Table",
-      "solved": 11
+      "topic": "Sorting",
+      "solved": 12
     },
     {
       "topic": "Math",
@@ -51,6 +51,14 @@
       "solved": 4
     },
     {
+      "topic": "Stack",
+      "solved": 4
+    },
+    {
+      "topic": "Monotonic Stack",
+      "solved": 3
+    },
+    {
       "topic": "Counting",
       "solved": 2
     },
@@ -68,6 +76,10 @@
     },
     {
       "topic": "Quickselect",
+      "solved": 2
+    },
+    {
+      "topic": "Simulation",
       "solved": 2
     },
     {
@@ -103,10 +115,6 @@
       "solved": 1
     },
     {
-      "topic": "Monotonic Stack",
-      "solved": 1
-    },
-    {
       "topic": "Ordered Set",
       "solved": 1
     },
@@ -124,14 +132,6 @@
     },
     {
       "topic": "Segment Tree",
-      "solved": 1
-    },
-    {
-      "topic": "Simulation",
-      "solved": 1
-    },
-    {
-      "topic": "Stack",
       "solved": 1
     },
     {

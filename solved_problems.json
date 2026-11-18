@@ -555,6 +555,34 @@
         "Hash Table",
         "Sorting"
       ]
+    },
+    "daily-temperatures": {
+      "title": "Daily Temperatures",
+      "timestamp": "1794990564",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "next-greater-element-i": {
+      "title": "Next Greater Element I",
+      "timestamp": "1794985203",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    "baseball-game": {
+      "title": "Baseball Game",
+      "timestamp": "1794982366",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ]
     }
   }
 }
