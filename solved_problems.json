@@ -583,6 +583,24 @@
         "Stack",
         "Simulation"
       ]
+    },
+    "removing-stars-from-a-string": {
+      "title": "Removing Stars From a String",
+      "timestamp": "1795068943",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    "next-greater-element-ii": {
+      "title": "Next Greater Element II",
+      "timestamp": "1795025209",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
     }
   }
 }

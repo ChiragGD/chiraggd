@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 68,
+  "unique_problems_discovered": 70,
   "topics": [
     {
       "topic": "Array",
-      "solved": 41
+      "solved": 42
     },
     {
       "topic": "Sliding Window",
@@ -36,10 +36,14 @@
     },
     {
       "topic": "String",
-      "solved": 7
+      "solved": 8
     },
     {
       "topic": "Greedy",
+      "solved": 6
+    },
+    {
+      "topic": "Stack",
       "solved": 6
     },
     {
@@ -47,15 +51,15 @@
       "solved": 4
     },
     {
+      "topic": "Monotonic Stack",
+      "solved": 4
+    },
+    {
       "topic": "Prefix Sum",
       "solved": 4
     },
     {
-      "topic": "Stack",
-      "solved": 4
-    },
-    {
-      "topic": "Monotonic Stack",
+      "topic": "Simulation",
       "solved": 3
     },
     {
@@ -76,10 +80,6 @@
     },
     {
       "topic": "Quickselect",
-      "solved": 2
-    },
-    {
-      "topic": "Simulation",
       "solved": 2
     },
     {
