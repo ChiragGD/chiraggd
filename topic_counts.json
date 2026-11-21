@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 70,
+  "unique_problems_discovered": 73,
   "topics": [
     {
       "topic": "Array",
-      "solved": 42
+      "solved": 44
     },
     {
       "topic": "Sliding Window",
@@ -19,12 +19,12 @@
       "solved": 12
     },
     {
-      "topic": "Sorting",
+      "topic": "Math",
       "solved": 12
     },
     {
-      "topic": "Math",
-      "solved": 11
+      "topic": "Sorting",
+      "solved": 12
     },
     {
       "topic": "Two Pointers",
@@ -59,6 +59,10 @@
       "solved": 4
     },
     {
+      "topic": "Enumeration",
+      "solved": 3
+    },
+    {
       "topic": "Simulation",
       "solved": 3
     },
@@ -72,10 +76,6 @@
     },
     {
       "topic": "Dynamic Programming",
-      "solved": 2
-    },
-    {
-      "topic": "Enumeration",
       "solved": 2
     },
     {

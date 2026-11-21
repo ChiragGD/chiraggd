@@ -601,6 +601,28 @@
         "Stack",
         "Monotonic Stack"
       ]
+    },
+    "convert-the-temperature": {
+      "title": "Convert the Temperature",
+      "timestamp": "1795190400",
+      "topics": [
+        "Math"
+      ]
+    },
+    "maximum-valid-pair-sum": {
+      "title": "Maximum Valid Pair Sum",
+      "timestamp": "1795188171",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    },
+    "maximum-ascending-subarray-sum": {
+      "title": "Maximum Ascending Subarray Sum",
+      "timestamp": "1795185716",
+      "topics": [
+        "Array"
+      ]
     }
   }
 }
