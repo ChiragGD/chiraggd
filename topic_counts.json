@@ -1,10 +1,10 @@
 {
   "username": "chiraggd",
-  "unique_problems_discovered": 73,
+  "unique_problems_discovered": 74,
   "topics": [
     {
       "topic": "Array",
-      "solved": 44
+      "solved": 45
     },
     {
       "topic": "Sliding Window",
@@ -40,7 +40,7 @@
     },
     {
       "topic": "Greedy",
-      "solved": 6
+      "solved": 7
     },
     {
       "topic": "Stack",
